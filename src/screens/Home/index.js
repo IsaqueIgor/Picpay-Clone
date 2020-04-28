@@ -12,6 +12,8 @@ import {
 
 import Suggestions from '../../components/Suggestions';
 import Activities from '../../components/Activities';
+import Tips from '../../components/Tips';
+import Banner from '../../components/Banner';
 
 export default function Home () {
     return(
@@ -22,7 +24,7 @@ export default function Home () {
 
                     <BalanceContainer>
                         <BalanceTitle>Meu Saldo</BalanceTitle>
-                        <Balance>R$ 1.532.000,00</Balance>
+                        <Balance>R$2.452,00</Balance>
                     </BalanceContainer>
 
                     <AntDesign name='gift' size={30} color='#10c86e'/>
@@ -30,6 +32,8 @@ export default function Home () {
 
                 <Suggestions />
                 <Activities />
+                <Tips />
+                <Banner />
 
             </Container>
         </Wrapper>
