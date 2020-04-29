@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "picpay",
-    "slug": "picpay",
+    "name": "picpay-clone-isaqueigor",
+    "slug": "picpay-clone-isaqueigor",
     "platforms": [
       "ios",
       "android",
@@ -23,6 +23,8 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "",
+    "githubUrl": "https://github.com/IsaqueIgor/Picpay-Clone"
   }
 }
