@@ -28,6 +28,7 @@ This project is a PicPay app Clone, which is a digital wallet app that enables u
 ## 🔖 Layout
 
 <img alt="Picpaylayout" title="#picpay01" src="./assets/screenlayout01.jpeg" width="280px" />
+<img alt="Picpaylayout" title="#picpay01" src="./assets/screenlayout02.jpeg" width="280px" />
 
 ## 🤔 How to contribute
 
